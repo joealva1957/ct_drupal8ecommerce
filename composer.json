@@ -27,6 +27,7 @@
         "drupal/entityqueue": "^1.0",
         "drupal/flexslider": "^2.0",
         "drupal/jcarousel": "^4.0",
+        "drupal/libraries": "^3.0",
         "drupal/page_manager": "^4.0",
         "drupal/panelizer": "^4.1",
         "drupal/panels": "^4.3",
